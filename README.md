@@ -1,4 +1,4 @@
-# Google Data Analytics Professional Certificate 
+# Google Data Analytics Professional Certificate  
 
 Welcome to my repository for the Google Data Analytics Professional Certificate! Here, I'll be storing my practice labs, projects, and notes related to the courses.
 
