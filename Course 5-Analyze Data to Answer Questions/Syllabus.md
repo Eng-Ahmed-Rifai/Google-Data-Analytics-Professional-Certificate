@@ -35,5 +35,5 @@ Calculations are a common task for data analysts. In this part of the course, yo
 * **Graded:** Module 4 Challenge 
 
 --- 
-I have formatted your syllabus to be more readable by adding bullet points and links. This makes it easier to quickly scan and find the information they need. I have also added a horizontal rule to separate the syllabus title from the modules. 
+
 
