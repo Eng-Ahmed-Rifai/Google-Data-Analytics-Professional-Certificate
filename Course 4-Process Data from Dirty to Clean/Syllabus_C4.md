@@ -51,4 +51,3 @@ Review the course glossary and prepare for the next course in the Google Data An
 
 ---
 
-**Note:** Replace the bracketed links with your actual module material links. 
