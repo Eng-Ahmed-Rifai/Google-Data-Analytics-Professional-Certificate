@@ -1,16 +1,22 @@
-# Google Data Analytics Professional Certificate  
+# 📊 Google Data Analytics Professional Certificate
 
-Welcome to my repository for the Google Data Analytics Professional Certificate! Here, I'll be storing my practice labs, projects, and notes related to the courses.
+[![Google](https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://www.coursera.org/professional-certificates/google-data-analytics)
+[![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org/)
+[![SQL](https://img.shields.io/badge/SQL-BigQuery-CC292B?style=for-the-badge&logo=googlecloud&logoColor=white)](https://cloud.google.com/bigquery)
+[![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://www.tableau.com/)
 
-## About the Professional Certificate - 8 course series
+Comprehensive coursework, SQL data manipulation labs, R statistical analysis scripts, and Tableau visualization dashboards completed for the **Google Data Analytics Professional Certificate**.
 
-![image](https://github.com/Eng-Ahmed-Rifai/Google-Data-Analytics-Professional-Certificate/assets/110114267/07209fec-a409-4086-9428-431d4d08c01c)
+---
 
+## 🛠️ Key Skills & Analytics Tools
 
-*Google Data Analytics Professional Certificate*
+- **Data Processing & SQL**: Complex queries, aggregations, JOINs, and data cleaning in Google BigQuery SQL.
+- **Statistical Analysis with R**: Exploratory Data Analysis (EDA), ggplot2 visualizations, and tidyverse data wrangling.
+- **Data Visualization**: Interactive dashboards, business storytelling, and stakeholder metric reports in Tableau.
+- **Analytics Process**: Ask, Prepare, Process, Analyze, Share, and Act methodology.
 
-![image](https://github.com/Eng-Ahmed-Rifai/Google-Data-Analytics-Professional-Certificate/assets/110114267/71d2d7f3-0e23-4dd4-8136-73826ab7344e)
+---
 
-
-*Skills Covered in the Certificate* 
- 
+## 👤 Author
+**Eng. Ahmed Rifai**
