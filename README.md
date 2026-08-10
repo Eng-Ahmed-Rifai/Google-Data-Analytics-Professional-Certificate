@@ -1,42 +1,41 @@
 # 📊 Google Data Analytics Professional Certificate
 
-[![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white)](https://www.coursera.org/professional-certificates/google-data-analytics)
-[![Google](https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://google.com)
-[![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org/)
+[![Coursera](https://img.shields.io/badge/Coursera-Google_Data_Analytics-0056D2?style=for-the-badge&logo=coursera&logoColor=white)](https://www.coursera.org/professional-certificates/google-data-analytics)
+[![Google](https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://about.google/)
 [![SQL](https://img.shields.io/badge/SQL-BigQuery-CC292B?style=for-the-badge&logo=googlecloud&logoColor=white)](https://cloud.google.com/bigquery)
+[![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org/)
 [![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://www.tableau.com/)
-[![Spreadsheets](https://img.shields.io/badge/Sheets-Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)](https://sheets.google.com)
+[![Spreadsheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)](https://sheets.google.com)
 
-Official repository containing SQL queries, R scripts, Tableau dashboards, and case study projects for the **8-Course Google Data Analytics Professional Certificate** on **Coursera**.
+Official repository containing coursework, SQL queries, R statistical scripts, Tableau dashboards, and the Capstone project completed for the **[Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics)** on Coursera.
 
 ---
 
-## 📚 Official 8-Course Track Breakdown
+## 📚 Complete Program Curriculum (8 Courses)
 
-| Course # | Course Title | Tools Used | Core Competencies & Deliverables |
+| Course # | Course Title | Analytics Tools | Core Competencies |
 | :---: | :--- | :--- | :--- |
-| **Course 1** | **Foundations: Data, Data, Everywhere** | Spreadsheets, SQL | Data ecosystem overview, analytical thinking frameworks, data life cycle phases |
-| **Course 2** | **Ask Questions to Make Data-Driven Decisions** | Spreadsheets | Structured problem solving, SMART question framing, stakeholder communication |
-| **Course 3** | **Prepare Data for Exploration** | BigQuery SQL | Data structures, database normalization, data security, ethics, and SQL filtering |
-| **Course 4** | **Process Data from Dirty to Clean** | SQL, Spreadsheets | Data integrity verification, SQL string operations, missing value handling, audit logs |
-| **Course 5** | **Analyze Data to Answer Questions** | BigQuery SQL | Complex SQL aggregations, GROUP BY, JOINs, subqueries, calculated fields |
-| **Course 6** | **Share Data Through the Art of Visualization** | Tableau | Interactive dashboard design, visual presentation, data storytelling, chart selection |
-| **Course 7** | **Data Analysis with R Programming** | R, RStudio, tidyverse | Data wrangling with dplyr, visualization with ggplot2, R Markdown documentation |
-| **Course 8** | **Google Data Analytics Capstone: Complete a Case Study** | R, SQL, Tableau | End-to-end analytics case study: Ask, Prepare, Process, Analyze, Visualize, Act |
+| **01** | **Foundations: Data, Data, Everywhere** | Spreadsheets, SQL, Tableau | Data ecosystem, data-driven decision making, analytical thinking, data ethics & privacy. |
+| **02** | **Ask Questions to Make Data-Driven Decisions** | Structured Problem Solving | Formulating S.M.A.R.T. questions, business metrics, stakeholder communication, problem alignment. |
+| **03** | **Prepare Data for Exploration** | BigQuery SQL, Database Design | Data collection, data integrity, database structures, SQL query basics, metadata, data security. |
+| **04** | **Process Data from Dirty to Clean** | SQL, Spreadsheets, Data Cleaning | Data cleaning techniques (TRIM, CONCAT, CAST, COALESCE), verification, error logs, documentation. |
+| **05** | **Analyze Data to Answer Questions** | BigQuery SQL, Aggregations | Data transformations, SQL JOINs (INNER, LEFT, RIGHT, FULL), subqueries, GROUP BY, HAVING filtering. |
+| **06** | **Share Data Through the Art of Visualization** | Tableau, Dashboard Design | Data visualization principles, dynamic Tableau dashboards, interactive charts, business storytelling. |
+| **07** | **Data Analysis with R Programming** | RStudio, tidyverse, ggplot2 | R language syntax, data frames, data wrangling with dplyr, statistical visualizations with ggplot2. |
+| **08** | **Google Data Analytics Capstone Project** | R, SQL, Tableau, Case Study | End-to-end case study (Cyclistic Bike-Share analysis), data cleaning, exploratory analysis, visualization, business strategy recommendations. |
 
 ---
 
-## 🛠️ Data Analytics Process & Methodology
+## 🛠️ Key Technical Competencies
 
-1. **Ask**: Defining business challenges, framing SMART questions, and managing stakeholder expectations.
-2. **Prepare**: Extracting data from databases using Google BigQuery SQL, verifying data structures.
-3. **Process**: Data cleaning, removing duplicates, sanitizing null values, and maintaining audit logs.
-4. **Analyze**: Sorting, filtering, aggregating with SQL queries and R dataframes.
-5. **Share**: Designing compelling, interactive visual stories and dashboards in Tableau.
-6. **Act**: Formulating data-driven recommendations and business insights.
+- **SQL & BigQuery**: Multi-table JOINs, window functions, CTEs, subqueries, data cleaning, and aggregations.
+- **R Programming**: Statistical modeling, tidyverse, dplyr data manipulation, ggplot2 plotting, and R Markdown reporting.
+- **Data Visualization**: Dynamic Tableau dashboards, heatmaps, scatter plots, trend lines, and dashboard filters.
+- **Case Study Analysis**: Translating raw transactional datasets into actionable business recommendations.
 
 ---
 
 ## 👤 Author
 **Ahmed Rifai**  
-*Data Analyst & AI Engineer* | [GitHub Profile](https://github.com/Eng-Ahmed-Rifai)
+*Data Analyst & AI Engineer*  
+[LinkedIn](https://www.linkedin.com/) | [GitHub Profile](https://github.com/Eng-Ahmed-Rifai)
